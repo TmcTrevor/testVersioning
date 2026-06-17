@@ -3,7 +3,7 @@ function greet(name) {
 }
 
 function greetFormal(name) {
-  return `Good day, ${name}. — v1.2.0`;
+  return `Good day, ${name}. — v1.2.1`;
 }
 
 module.exports = { greet, greetFormal };
